@@ -8,7 +8,7 @@ I’m a Data Engineer focused on building reliable, end-to-end data pipelines in
 - 📊 Interested in structured data architectures and clean analytics layers  
 - 📚 Always learning and improving my approach to cloud data engineering  
 - 📫 Reach me at: ashish.az@outlook.com
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/ashishraogadhe/)])
+- 🔗 [LinkedIn]([URL](https://www.linkedin.com/in/ashishraogadhe/))
   
 ---
 
