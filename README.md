@@ -9,6 +9,7 @@ I’m a Data Engineer focused on building reliable, end-to-end data pipelines in
 - 📚 Always learning and improving my approach to cloud data engineering  
 - 📫 Reach me at: ashish.az@outlook.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashishraogadhe/)
+- 🔗 [Portfolio](https://ashish-portfolio.b12sites.com/index)
   
 ---
 
