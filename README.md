@@ -21,8 +21,8 @@ End-to-end Azure pipeline for ingesting, transforming, and organizing car sales 
 ### 🔹 [Developed-a-scalable-ETL-pipeline-for-E-commerce-analytics](https://github.com/Ashishraogadhe/Developed-a-scalable-ETL-pipeline-for-E-commerce-analytics)
 A scalable ETL pipeline for e-commerce analytics that integrates multiple data sources, applies transformation logic, and produces a clean analytics dataset for reporting and dashboards.
 
-### 🔹 Customer Profiling and Segmentation (MSc Dissertation)  
-A research project focused on customer profiling and segmentation using data mining and machine learning techniques. Explored clustering approaches, feature engineering, and model evaluation to understand customer behavior patterns.
+### 🔹 [Designed-real-time-data-processingfor-financial-transactions](https://github.com/Ashishraogadhe/Designed-real-time-data-processingfor-financial-transactions)
+This project focuses on building a real-time data processing system for financial transactions. It streams, analyzes, and scores incoming transaction data to support immediate fraud detection and rapid decision-making.
 
 ---
 
