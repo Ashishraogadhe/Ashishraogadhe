@@ -18,8 +18,8 @@ I’m a Data Engineer focused on building reliable, end-to-end data pipelines in
 ### 🔹 [Azure Data Engineering: Car Sales Analytics](https://github.com/Ashishraogadhe/Azure-DE_Project)  
 End-to-end Azure pipeline for ingesting, transforming, and organizing car sales data using Data Factory, Databricks, and Synapse. Designed using the Medallion approach to support clean and structured reporting.
 
-### 🔹 UK Smart Energy Consumption Analytics (Azure Project)  
-A real-time data processing workflow built with Event Hubs, Stream Analytics, Data Factory, Databricks, and Delta Lake. Used for monitoring energy consumption and preparing data for dashboard insights.
+### 🔹 [Developed-a-scalable-ETL-pipeline-for-E-commerce-analytics](https://github.com/Ashishraogadhe/Developed-a-scalable-ETL-pipeline-for-E-commerce-analytics)
+A scalable ETL pipeline for e-commerce analytics that integrates multiple data sources, applies transformation logic, and produces a clean analytics dataset for reporting and dashboards.
 
 ### 🔹 Customer Profiling and Segmentation (MSc Dissertation)  
 A research project focused on customer profiling and segmentation using data mining and machine learning techniques. Explored clustering approaches, feature engineering, and model evaluation to understand customer behavior patterns.
