@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashish Rao Gadhe
+# 👋 Hi, I'm Ashish
 
 I’m a Data Engineer focused on building reliable, end-to-end data pipelines in Microsoft Azure. I enjoy working with data from the moment it’s collected to the point where it supports analysis and reporting. My work usually involves ingestion, transformation, orchestration, storage, and helping shape data for business use.
 
