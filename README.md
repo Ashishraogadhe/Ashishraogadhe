@@ -24,6 +24,9 @@ A scalable ETL pipeline for e-commerce analytics that integrates multiple data s
 ### 🔹 [Designed-real-time-data-processingfor-financial-transactions](https://github.com/Ashishraogadhe/Designed-real-time-data-processingfor-financial-transactions)
 This project focuses on building a real-time data processing system for financial transactions. It streams, analyzes, and scores incoming transaction data to support immediate fraud detection and rapid decision-making.
 
+### 🔹 [Implemented-an-azure-data-lake-solution-for-retail-analytics](https://github.com/Ashishraogadhe/Implemented-an-azure-data-lake-solution-for-retail-analytics)
+This project implements an Azure Data Lake setup designed to support large-scale retail analytics. It provides a central storage layer for customer and transaction data and automates data movement across multiple sources to enable faster insights and better decision-making.
+
 ---
 
 ## 📊 Tableau Visualisations  
