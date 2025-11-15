@@ -21,7 +21,7 @@ End-to-end Azure pipeline for ingesting, transforming, and organizing car sales 
 ### 🔹 [Developed-a-scalable-ETL-pipeline-for-E-commerce-analytics](https://github.com/Ashishraogadhe/Developed-a-scalable-ETL-pipeline-for-E-commerce-analytics)
 A scalable ETL pipeline for e-commerce analytics that integrates multiple data sources, applies transformation logic, and produces a clean analytics dataset for reporting and dashboards.
 
-### 🔹 [Designed-real-time-data-processingfor-financial-transactions](https://github.com/Ashishraogadhe/Designed-real-time-data-processingfor-financial-transactions)
+### 🔹 [Designed-real-time-data-processing-for-financial-transactions](https://github.com/Ashishraogadhe/Designed-real-time-data-processingfor-financial-transactions)
 This project focuses on building a real-time data processing system for financial transactions. It streams, analyzes, and scores incoming transaction data to support immediate fraud detection and rapid decision-making.
 
 ### 🔹 [Implemented-an-azure-data-lake-solution-for-retail-analytics](https://github.com/Ashishraogadhe/Implemented-an-azure-data-lake-solution-for-retail-analytics)
